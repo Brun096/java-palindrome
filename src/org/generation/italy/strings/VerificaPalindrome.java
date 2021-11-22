@@ -23,9 +23,9 @@ public class VerificaPalindrome {
 			
 		}
 		if(word.equals(s)) {
-			System.out.println("La parola è palindromo, e ha "+sum+" lettere");
+			System.out.println("La parola è palindrome, e ha "+sum+" lettere");
 		}else {
-			System.out.println("La parola non è palindromo, e ha "+sum+" lettere");
+			System.out.println("La parola non è palindrome, e ha "+sum+" lettere");
 		}
 		
 		scan.close();
